@@ -1,0 +1,189 @@
+.mainContainer {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.homepage {
+    background-color: white;
+}
+
+.homepageDark {
+    background-color: grey;
+}
+
+.headerContainer table {
+    width: 100%;
+}
+
+.headerContainer td {
+    width: 100%
+}
+
+.headerImage img {
+    width: 300px;
+}
+
+.lineSeparator {
+    margin-bottom: 20px;
+}
+
+.contentContainer {
+    min-height: 50%;
+    width: 100%;
+
+}
+
+.contentContainer table {
+    height: 100%;
+    width: 100%;
+}
+
+.contentContainer hr {
+    border-color: white;
+}
+
+.contentContainer td {
+    vertical-align: top;
+
+}
+
+.leftUtsaTheme {
+    width: 150px;
+    background-color: orange;
+    padding: 10px;
+    height: 100%;
+}
+
+.leftUtsaTheme h3 {
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+
+.centerContentContainer {
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    min-width: 300px;
+    padding: 10px;
+    height: 100%;
+}
+
+.centerContentContainer .aboutImg {
+    float: right;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.centerContentContainer img {
+    height: 200px;
+    width: 200px;
+}
+
+.centerContentContainer p {
+    text-align: justify;
+}
+
+.rightUtsaTheme {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    height: 100%;
+    width: 150px;
+}
+
+.rightUtsaTheme h4 {
+    text-align: center;
+}
+
+.blankTheme {
+    padding: 10px;
+    color: black;
+    height: 100%;
+    width: 150px;
+}
+
+.blankTheme h4 {
+    text-align: center;
+}
+
+.blankTheme h3 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footerContainer {
+    border-width: 5px;
+    border-style: dashed;
+    border-color: green;
+}
+
+.footerContainer p {
+    text-align: left;
+    vertical-align: top;
+    margin-bottom: 75px;
+}
+
+.coursesHeader {
+    background-color: #E2E3E4;
+}
+
+.coursesHeader h2 {
+    text-align: center;
+}
+
+.coursesHeader table {
+    height: 100%;
+    table-layout: fixed;
+}
+
+.coursesHeader th {
+    width: 25%;
+    padding: 5px;
+}
+
+.coursesHeader tr {
+    width: 100%;
+}
+
+.coursesHeader td {
+    width: 20%;
+    text-align: center;
+    justify-content: center;
+    padding: 5px
+}
+
+.coursesTitle {
+    background-color: #E2E3E4;
+}
+
+.coursesTitle h2 {
+    text-align: center;
+}
+
+.coursesList table {
+    table-layout: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+.coursesList th {
+    width: 20%;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.coursesList td {
+    width: 20%;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.enrolled {
+    background-color: #ADD8E6;
+}
